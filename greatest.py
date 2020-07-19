@@ -1,7 +1,7 @@
 first=int(input("enter a first number"))
-print("first")
+print(first)
 second=int(input("enter a second number"))
-print("second")
+print(second)
 if first>second:
     print("greatest is",first)
 elif second>first:
