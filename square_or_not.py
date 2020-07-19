@@ -1,7 +1,7 @@
 length=int(input("enter the lenght"))
-print("length")
+print(length)
 breadth=int(input("enter the breadth"))
-print("breadth")
+print(breadth)
 if length == breadth:
     print("yes, it is square")
 else:
